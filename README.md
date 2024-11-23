@@ -1,6 +1,8 @@
 # hse24_hw4
 
-## [Основная часть](https://colab.research.google.com/drive/1BQtJeJQYu8ka5_e8qinDEj53rIUMEGZY#scrollTo=hECODRNGUE5x)
+## Обязательная часть 
+
+[Основная часть google collab](https://colab.research.google.com/drive/1BQtJeJQYu8ka5_e8qinDEj53rIUMEGZY#scrollTo=hECODRNGUE5x)
 
 Часть задания с объединением всех файлов .counts по генам в один общий `ALL.counts` проделала в [Jupyter Notebook](src/minor_bioinf_hw4_2.ipynb) из-за проблем с работой Numpy в гугл коллабе
 
@@ -39,8 +41,9 @@ ID образца
 
   
 
+## Бонус Графики из анализа DESeq2
  
-## [Бонусная часть](https://colab.research.google.com/drive/11zx_fQMrDTV6K8V2WZbAD34aR3GhTJSO?usp=sharing) Графики из анализа DESeq2 
+[Бонусная часть google collab](https://colab.research.google.com/drive/11zx_fQMrDTV6K8V2WZbAD34aR3GhTJSO?usp=sharing) 
 
 ### MAplot, показывает Log2FC для генов
 ![Unknown-5](https://github.com/user-attachments/assets/b6b4dbdc-6f8a-463d-9c1a-c64a09c569af)
